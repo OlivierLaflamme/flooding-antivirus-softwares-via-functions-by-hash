@@ -1,4 +1,4 @@
-# flooding-antivirus-softwares-via-functions-by-hash
+# flooding antivirus softwares via functions by hash
 
 Now I will explain, where did i get hash ("061b4792d0612137b3580832cc6ba7ba").<br>
 
